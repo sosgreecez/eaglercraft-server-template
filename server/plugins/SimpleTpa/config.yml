@@ -81,7 +81,7 @@ Particle-Name: "EXPLOSION_NORMAL"
 
 #Accept Button Properties
 Accept-Button: "ACCEPT"
-Accept-Button-Color: "RED"
+Accept-Button-Color: "GREEN"
 Accept-Button-Set-Bold: true
 Accept-Button-Description: "&6Click here to &cACCEPT &6the tp request!"
 
@@ -141,12 +141,12 @@ invincibility-seconds: 5
 #This will keep the teleport request alive for X seconds
 keep-alive: 60
 #This will delay the teleportation for X seconds
-delay-back-command: 5
-delay-teleportation: 5
+delay-back-command: 1
+delay-teleportation: 1
 #Cooldowns
-back-cooldown: 10
-tpa-cooldown: 10
-tpahere-cooldown: 10
+back-cooldown: 5
+tpa-cooldown: 5
+tpahere-cooldown: 5
 tpahereall-cooldown: 10
 #To set a custom cooldown, you need to add a permission : simpletpa.cooldown.Y.X where Y is the command and  X are the seconds.
 #The options for commands are: tpa | tpahere | back | tpahereall
