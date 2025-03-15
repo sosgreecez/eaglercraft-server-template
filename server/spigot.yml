@@ -22,7 +22,7 @@ settings:
   moved-too-quickly-threshold: 100.0
   timeout-time: 60
   restart-on-crash: true
-  restart-script: ./start.sh
+  restart-script: ./run.sh
   netty-threads: 4
   attribute:
     maxHealth:
@@ -48,7 +48,7 @@ commands:
   log: true
   spam-exclusions:
   - /skill
-  silent-commandblock-console: false
+  silent-commandblock-console: true
   replace-commands:
   - setblock
   - summon
