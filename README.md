@@ -4,6 +4,7 @@
 Original Project: Lax1Dude
 <br>
 Original Server Fork: EcoliEater87
+Forked from: IsmaelTechProxy
 <br>
 ## Setup Guide
 Welcome to the EaglercraftX server project! Here is how you can setup your very own eaglercraft server:
@@ -21,6 +22,7 @@ first tab: `cd server && sudo java -jar server.jar`
 <br>
 <br>
 second tab: `cd bungee && sudo java -jar bungee.jar`
+*You may need to remove "sudo" for it to work in other places like Replit or Codeanywhere*
 <br>
 <br>
 Now go to the ports area and forward (and make public) ports `25565` and `8081`
