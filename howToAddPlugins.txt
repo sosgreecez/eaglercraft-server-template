@@ -1,0 +1,4 @@
+To add a plugin; first download the plugin .jar file (Make sure that it is for 1.8.8). 
+Next, go to the sevrer/plugins and add the file to /plugins. e.g. /server/plugin yourplugin
+If you restart the codespace, new folders with the name of the plugin should appear.
+If not try moving the .jar around and make sure it is not in /server/plugins/pluginmetrics
