@@ -1,0 +1,44 @@
+[23:29:44] [main/INFO]: Using mbed TLS based native cipher.
+[23:29:44] [main/INFO]: Using zlib based native compressor.
+[23:29:44] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.21-R0.1-SNAPSHOT:de8345a:579
+[23:29:44] [main/WARN]: Waterfall has reached end of life and is no longer maintained. We recommend you transition to Velocity (https://papermc.io/software/velocity). For more information, see the announcement (https://forums.papermc.io/threads/1088/).
+[23:29:45] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[23:29:45] [main/INFO]: Epoll is working, utilising it!
+[23:29:45] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[23:29:45] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[23:29:45] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[23:29:45] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[23:29:45] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[23:29:45] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[23:29:45] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=579, git=de8345a)
+[23:29:45] [main/INFO]: Attempting to Jenkins download module cmd_alert v579
+[23:29:46] [main/INFO]: Download complete
+[23:29:46] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=579, git=de8345a)
+[23:29:46] [main/INFO]: Attempting to Jenkins download module cmd_find v579
+[23:29:46] [main/INFO]: Download complete
+[23:29:46] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=579, git=de8345a)
+[23:29:46] [main/INFO]: Attempting to Jenkins download module cmd_list v579
+[23:29:46] [main/INFO]: Download complete
+[23:29:46] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=579, git=de8345a)
+[23:29:46] [main/INFO]: Attempting to Jenkins download module cmd_send v579
+[23:29:47] [main/INFO]: Download complete
+[23:29:47] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=579, git=de8345a)
+[23:29:47] [main/INFO]: Attempting to Jenkins download module cmd_server v579
+[23:29:47] [main/INFO]: Download complete
+[23:29:47] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=579, git=de8345a)
+[23:29:47] [main/INFO]: Attempting to Jenkins download module reconnect_yaml v579
+[23:29:47] [main/INFO]: Download complete
+[23:29:47] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:de8345a:579 by WaterfallMC
+[23:29:47] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:de8345a:579 by WaterfallMC
+[23:29:47] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:de8345a:579 by WaterfallMC
+[23:29:47] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:de8345a:579 by WaterfallMC
+[23:29:47] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:de8345a:579 by WaterfallMC
+[23:29:47] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:de8345a:579 by WaterfallMC
+[23:29:47] [main/WARN]: Forced host server pvp is not defined
+[23:29:47] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:de8345a:579 by WaterfallMC
+[23:29:47] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:de8345a:579 by WaterfallMC
+[23:29:47] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:de8345a:579 by WaterfallMC
+[23:29:47] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:de8345a:579 by WaterfallMC
+[23:29:47] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:de8345a:579 by WaterfallMC
+[23:29:47] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:de8345a:579 by WaterfallMC
+[23:29:48] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577

@@ -1,5 +1,5 @@
 listener_01:
-  address: 0.0.0.0:8081
+  address: srv796046.hstgr.cloud:25566
   address_v6: 'null'
   max_players: 60
   tab_list: GLOBAL_PING
@@ -10,7 +10,7 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: server-icon.png
   server_motd:
-  - '&6Amethyst SMP'
+  - '&6zayth mc'
   allow_motd: true
   allow_query: true
   request_motd_cache:
